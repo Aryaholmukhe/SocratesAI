@@ -59,27 +59,3 @@ userInterface.on("line", async (input) => {
     await fs.writeFile(speechFile, buffer);
     console.log("Socrates is ready to speak");
 });
-
-
-
-
-
-
-
-
-
-
-
-//       SOCRATES WILL SPEAK WITH YOU SOON :)
-
-
-
-
-
-
-
-
-
-
-
-
